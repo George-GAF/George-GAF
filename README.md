@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @George-GAF
+- 👋 Hi, I’m George Anwer
 - 👀 I’m interested in dart - flutter , html - css - javascript - react
 - 🌱 I’m currently learning react
 - 📫 reach me by mail georgeanwer@gmail.com
